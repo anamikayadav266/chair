@@ -128,7 +128,7 @@ button.color6:hover ~ .back-color{
 
 
 .chairs{
-    background-image: url('./chair1.png');
+    background-image: url('../chair1.png');
     z-index: 110;
     height: 500px;
     width: 500px;
@@ -139,14 +139,14 @@ button.color6:hover ~ .back-color{
 }
 
 button.color1:hover ~ .chairs{
-    background-image: url('/chair1.png');
+    background-image: url('../chair1.png');
 
 
 
 }
 
 button.color2:hover ~ .chairs{
-    background-image: url('/chair2.png');
+    background-image: url('../chair2.png');
     
 
 
@@ -154,7 +154,7 @@ button.color2:hover ~ .chairs{
    
 
 button.color3:hover ~ .chairs{
-    background-image: url('/chair3.png');
+    background-image: url('../chair3.png');
     
 
 
@@ -162,7 +162,7 @@ button.color3:hover ~ .chairs{
    
 
 button.color4:hover ~ .chairs{
-    background-image: url('/chair4.png');
+    background-image: url('../chair4.png');
     
 
 
@@ -170,7 +170,7 @@ button.color4:hover ~ .chairs{
    
 
 button.color5:hover ~ .chairs{
-    background-image: url('/chair5.png');
+    background-image: url('../chair5.png');
     
 
 
@@ -178,7 +178,7 @@ button.color5:hover ~ .chairs{
    
 
 button.color6:hover ~ .chairs{
-    background-image: url('/chair6.png');
+    background-image: url('../chair6.png');
     
 
 
