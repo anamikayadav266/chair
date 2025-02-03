@@ -128,7 +128,7 @@ button.color6:hover ~ .back-color{
 
 
 .chairs{
-    background-image: url('/chair1.png');
+    background-image: url('./chair1.png');
     z-index: 110;
     height: 500px;
     width: 500px;
